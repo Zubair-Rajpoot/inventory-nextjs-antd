@@ -8,7 +8,7 @@ This project uses [App router](https://nextjs.org/docs).
 First, clone this repository:
 
 ```bash
-git clone https://github.com/WebDeveloper0315/inventory-nextjs-antd.git
+git clone https://github.com/Zubair-Rajpoot/inventory-nextjs-antd.git
 ```
 Install the dependencies:
 
